@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans Mono", monospace;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 50px auto;
+}
+
+main {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  color: #8075ff;
+}
+p {
+  color: #bcb3fd;
+}
+
+#activity-name {
+  margin-top: 50px;
+  border-bottom: 4px solid #bcb3fd;
+}
+
+#btn {
+  border: none;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #8075ff;
+  color: aliceblue;
+  border-radius: 2px;
+  font-weight: bold;
+  width: 100px;
+  margin: 20px auto;
+  text-align: center;
+}
+

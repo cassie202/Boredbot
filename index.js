@@ -4,6 +4,9 @@ const getApi = () => {
     .then((data) => {
       data;
       document.getElementById("activity-name").textContent = data.activity;
+      document.body.classList.toggle("fun",)
+      
+     
     });
 };
 getApi();

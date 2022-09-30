@@ -3,9 +3,10 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: "Noto Sans Mono", monospace;
-  background: #649173;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #DBD5A4, #649173);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #DBD5A4, #649173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #283048;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
 
 }
 
@@ -32,7 +33,7 @@ p {
 
 #activity-name {
   margin-top: 50px;
-  border-bottom: 4px solid #bcb3fd;
+  border-bottom: 2px solid #bcb3fd;
   color: white;
 }
 
